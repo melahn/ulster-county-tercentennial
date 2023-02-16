@@ -1,0 +1,17 @@
+* {
+	font-family: "Andale Mono";
+	color: #d3d3d3ff;
+	background-color: #0a0a0aff;
+}
+a:link {
+	color: #eee3c1ff;
+	font: 16px;
+}
+a:visited {
+	color: #2f71e8ff;
+	font: 16px;
+}
+.header {
+	color: #ffffffff;
+	font: 30px;
+}
